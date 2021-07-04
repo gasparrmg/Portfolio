@@ -1,0 +1,23 @@
+.socials {
+  background-color: transparent;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 100%;
+  right: 2rem;
+  z-index: 1;
+}
+
+.socials-menu {
+  padding: 0;
+  height: fit-content;
+}
+
+.socials-menu-item {
+  position: relative;
+}
+
+.socials-menu-item:hover {
+  transform: translateX(-10px);
+}
