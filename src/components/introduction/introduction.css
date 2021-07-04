@@ -17,6 +17,7 @@
 }
 
 .content h2 {
+  font-size: 2em;
   color: #333;
   font-family: "Special Elite", cursive;
 }
@@ -29,13 +30,14 @@
 .content h1 {
   color: #333;
   font-weight: 500;
-  font-size: 56px;
+  font-size: 5em;
   margin-left: 18px;
   margin-bottom: 9px;
 }
 
 .content p {
   color: #333;
+  font-size: 1.1em;
   margin-top: 9px;
   margin-left: 18px;
   word-wrap: break-word;
