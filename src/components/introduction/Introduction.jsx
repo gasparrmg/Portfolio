@@ -23,7 +23,7 @@ export default function Introduction() {
                 <h2>and I’m a <span ref={textRef}></span> Developer </h2>
                 <p>I’m an engineer from Lisbon with a Master’s degree in Informatics that has a special fond for Mobile and Web Development.</p>
             </div>
-            <NextSection text="Work Experience" anchor="#work"/>
+            <NextSection text="Work Experience" link="#work"/>
         </div>
     )
 }
